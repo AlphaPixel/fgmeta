@@ -1,24 +1,24 @@
 [submodule "simgear"]
 	path = simgear
 	url = ../simgear
-	branch = release/2020.3
+	branch = 2020.3.8-alphapixel
 [submodule "flightgear"]
 	path = flightgear
 	url = ../flightgear
-	branch = release/2020.3
+	branch = 2020.3.8-alphapixel
 [submodule "fgrun"]
 	path = fgrun
-	url = ../fgrun
+	url = https://git.code.sf.net/p/flightgear/fgrun
 	branch = next
 [submodule "fgdata"]
 	path = fgdata
-	url = ../fgdata
+	url = https://git.code.sf.net/p/flightgear/fgdata
 	branch = release/2020.3
 [submodule "windows-3rd-party"]
 	path = windows-3rd-party
-	url = ../windows-3rd-party
+	url = https://git.code.sf.net/p/flightgear/windows-3rd-party
 	branch = release/2020.3
 [submodule "getstart"]
 	path = getstart
-	url = ../getstart
+	url = https://git.code.sf.net/p/flightgear/getstart
 	branch = release/2020.3
